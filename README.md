@@ -1,3 +1,5 @@
+[![PHP CI](https://github.com/DAS27/shop/actions/workflows/main.yml/badge.svg)](https://github.com/DAS27/shop/actions/workflows/main.yml)
+
 ## Description
 Test e-commerce shop
 
